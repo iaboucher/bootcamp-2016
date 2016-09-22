@@ -6,7 +6,12 @@ for (ii in 1:){
   cat("*","&")
 }#Alfaro exercise 2
 
-#Alfaro exercise 3 ...
+#Alfaro exercise 3
+the variable “dogs” originally was the integer 10, after the for loop, its value becomes 15.
+
+meatloaf is originally 0, and the for loop sets the value prints values of meatloaf minus 5:9 and adding 1, of that the final print out will read -4 first, and -30 last. 
+
+bubbles is originally 12, the for loop sets bubbles equal to i in the series of integers -1:-4, with the final iteration of the loop setting bubbles to -4. 
 
 #Alfaro exercise 4
 years <- c( 2015, 2016, 2018, 2020, 2021)
